@@ -6,9 +6,30 @@
     <description>Recent content on Kacper Wardega</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kwardega.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://kwardega.com/about/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwardega.com/about/</guid>
+      <description>I’m a PhD candidate at Boston University’s Dependable Computing Lab.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://kwardega.com/publications/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwardega.com/publications/</guid>
+      <description>Application-Aware Scheduling of Networked Applications over the Low-Power Wireless Bus, Kacper Wardega and Wenchao Li. Design, Automation and Test in Europe (DATE), March 2020. (to appear)
+Resilience of Multi-Robot Systems to Physical Masquerade Attacks, Kacper Wardega, Roberto Tron and Wenchao Li. IEEE Workshop on the Internet of Safe Things (SafeThings), May 2019. [↓]
+Masquerade Attack Detection Through Observation Planning for Multi-Robot Systems, Kacper Wardega, Roberto Tron and Wenchao Li. International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May 2019.</description>
+    </item>
     
   </channel>
 </rss>
