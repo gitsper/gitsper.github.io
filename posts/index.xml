@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kacper Wardega</title>
+    <link>https://kwardega.com/posts/</link>
+    <description>Recent content in Posts on Kacper Wardega</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kwardega.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resilience of Multi-Robot Systems to Physical Masquerade Attacks</title>
+      <link>https://kwardega.com/posts/physical-masquerade-attacks/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwardega.com/posts/physical-masquerade-attacks/</guid>
+      <description>Abstract:  The advent of autonomous mobile multi-robot systems has driven innovation in both the industrial and defense sectors. The integration of such systems in safety-and security-critical applications has raised concern over their resilience to attack. In this work, we investigate the security problem of a stealthy adversary masquerading as a properly functioning agent. We show that conventional multi-agent pathfinding solutions are vulnerable to these physical masquerade attacks. Furthermore, we provide a constraint-based formulation of multi-agent pathfinding that yields multi-agent plans that are provably resilient to physical masquerade attacks.</description>
+    </item>
+    
+    <item>
+      <title>Exploring Weakly-hard Paradigm for Networked Systems</title>
+      <link>https://kwardega.com/posts/exploring-weakly-hard/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwardega.com/posts/exploring-weakly-hard/</guid>
+      <description>Abstract:  Networked systems have shown great promises in various cyber-physical applications, such as automotive and transportation systems, smart buildings and infrastructures, and robotic systems. As these systems employ advanced components and interact closely with the dynamic environment, they are often subject to significant disturbances from environment interference, security attacks, and device faults. To ensure system safety, performance and other properties, it is critical to capture these disturbances and reason about their impact at the network level.</description>
+    </item>
+    
+  </channel>
+</rss>
