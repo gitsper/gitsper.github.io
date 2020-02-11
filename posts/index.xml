@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Kacper Wardega</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kwardega.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning</title>
+      <link>https://kwardega.com/posts/trojdrl/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwardega.com/posts/trojdrl/</guid>
+      <description>Abstract:  We present TrojDRL, a tool for exploring and evaluating backdoor attacks on deep reinforcement learning agents. TrojDRL exploits the sequential nature of deep reinforcement learning (DRL) and considers different gradations of threat models. We show that untargeted attacks on state-of-the-art actor-critic algorithms can circumvent existing defenses built on the assumption of backdoors being targeted. We evaluated TrojDRL on a broad set of DRL benchmarks and showed that the attacks require only poisoning as little as 0.</description>
+    </item>
     
     <item>
       <title>Application-Aware Scheduling of Networked Applications over the Low-Power Wireless Bus</title>
