@@ -6,28 +6,13 @@
     <description>Recent content on Kacper Wardega</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://kwardega.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Publications</title>
-      <link>https://kwardega.com/publications/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kwardega.com/publications/</guid>
-      <description>TrojDRL: Evaluation of Backdoor Attackson Deep Reinforcement Learning, Panagiota Kiourti, Kacper Wardega, Susmit Jha and Wenchao Li. Design Automation Conference (DAC), June 2020. [post]
-Application-Aware Scheduling of Networked Applications over the Low-Power Wireless Bus, Kacper Wardega and Wenchao Li. Design, Automation and Test in Europe (DATE), March 2020. [post]
-Resilience of Multi-Robot Systems to Physical Masquerade Attacks, Kacper Wardega, Roberto Tron and Wenchao Li. IEEE Workshop on the Internet of Safe Things (SafeThings), May 2019.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kwardega.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning</title>
-      <link>https://kwardega.com/posts/trojdrl/</link>
+      <link>https://kwardega.com/publications/trojdrl/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://kwardega.com/posts/trojdrl/</guid>
+      <guid>https://kwardega.com/publications/trojdrl/</guid>
       <description>Abstract:  We present TrojDRL, a tool for exploring and evaluating backdoor attacks on deep reinforcement learning agents. TrojDRL exploits the sequential nature of deep reinforcement learning (DRL) and considers different gradations of threat models. We show that untargeted attacks on state-of-the-art actor-critic algorithms can circumvent existing defenses built on the assumption of backdoors being targeted. We evaluated TrojDRL on a broad set of DRL benchmarks and showed that the attacks require only poisoning as little as 0.</description>
     </item>
     
@@ -44,28 +29,28 @@ Contact  ktw@bu.edu
     
     <item>
       <title>Application-Aware Scheduling of Networked Applications over the Low-Power Wireless Bus</title>
-      <link>https://kwardega.com/posts/netdag/</link>
+      <link>https://kwardega.com/publications/netdag/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://kwardega.com/posts/netdag/</guid>
+      <guid>https://kwardega.com/publications/netdag/</guid>
       <description>Abstract:  Recent successes of wireless networked systems in advancing industrial automation and in spawning the Internet of Things paradigm motivate the adoption of wireless networked systems in current and future safety-critical applications. As reliability is key in safety-critical applications, in this work we present NetDAG, a scheduler design and implementation suitable for real-time applications in the wireless setting. NetDAG is built upon the Low-Power Wireless Bus, a high-performant communication abstraction for wireless networked systems, and enables system designers to directly schedule applications under specified task-level real-time constraints.</description>
     </item>
     
     <item>
       <title>Resilience of Multi-Robot Systems to Physical Masquerade Attacks</title>
-      <link>https://kwardega.com/posts/physical-masquerade-attacks/</link>
+      <link>https://kwardega.com/publications/physical-masquerade-attacks/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kwardega.com/posts/physical-masquerade-attacks/</guid>
+      <guid>https://kwardega.com/publications/physical-masquerade-attacks/</guid>
       <description>Abstract:  The advent of autonomous mobile multi-robot systems has driven innovation in both the industrial and defense sectors. The integration of such systems in safety-and security-critical applications has raised concern over their resilience to attack. In this work, we investigate the security problem of a stealthy adversary masquerading as a properly functioning agent. We show that conventional multi-agent pathfinding solutions are vulnerable to these physical masquerade attacks. Furthermore, we provide a constraint-based formulation of multi-agent pathfinding that yields multi-agent plans that are provably resilient to physical masquerade attacks.</description>
     </item>
     
     <item>
       <title>Exploring Weakly-hard Paradigm for Networked Systems</title>
-      <link>https://kwardega.com/posts/exploring-weakly-hard/</link>
+      <link>https://kwardega.com/publications/exploring-weakly-hard/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kwardega.com/posts/exploring-weakly-hard/</guid>
+      <guid>https://kwardega.com/publications/exploring-weakly-hard/</guid>
       <description>Abstract:  Networked systems have shown great promises in various cyber-physical applications, such as automotive and transportation systems, smart buildings and infrastructures, and robotic systems. As these systems employ advanced components and interact closely with the dynamic environment, they are often subject to significant disturbances from environment interference, security attacks, and device faults. To ensure system safety, performance and other properties, it is critical to capture these disturbances and reason about their impact at the network level.</description>
     </item>
     

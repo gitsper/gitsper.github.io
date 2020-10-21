@@ -1,0 +1,32 @@
++++
+title = "Publications"
+date = "2020-02-11"
+author = "Kacper"
++++
+
+
+**TrojDRL: Evaluation of Backdoor Attackson Deep Reinforcement
+Learning**, Panagiota Kiourti, Kacper Wardega, Susmit Jha and Wenchao
+Li. Design Automation Conference (DAC), June 2020. [[post]({{<ref
+"publications/trojdrl.md" >}})]
+
+**Application-Aware Scheduling of Networked Applications over the
+Low-Power Wireless Bus**, Kacper Wardega and Wenchao Li. Design,
+Automation and Test in Europe (DATE), March 2020. [[post]({{<ref
+"publications/netdag.md" >}})]
+
+**Resilience of Multi-Robot Systems to Physical Masquerade Attacks**,
+Kacper Wardega, Roberto Tron and Wenchao Li. IEEE Workshop on the
+Internet of Safe Things (SafeThings), May 2019. [[post]({{<ref
+"publications/physical-masquerade-attacks.md" >}})]
+
+**Masquerade Attack Detection Through Observation Planning for
+Multi-Robot Systems**, Kacper Wardega, Roberto Tron and Wenchao Li.
+International Conference on Autonomous Agents and Multiagent Systems
+(AAMAS), May
+2019. [[post]({{<ref "publications/physical-masquerade-attacks.md" >}})]
+
+**Exploring Weakly-hard Paradigm for Networked Systems**, Chao Huang,
+Kacper Wardega, Wenchao Li and Qi Zhu. Workshop on Design Automation for
+CPS and IoT (DESTION), April 2019. [[post]({{<ref
+"publications/exploring-weakly-hard.md" >}})]
