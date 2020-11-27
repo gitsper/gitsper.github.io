@@ -6,7 +6,16 @@
     <description>Recent content on Kacper Wardega</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kwardega.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 16:45:12 -0500</lastBuildDate><atom:link href="https://kwardega.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Know the Unknowns: Addressing Disturbances and Uncertainties in Autonomous Systems</title>
+      <link>https://kwardega.com/publications/know-the-unknowns/</link>
+      <pubDate>Fri, 27 Nov 2020 16:45:12 -0500</pubDate>
+      
+      <guid>https://kwardega.com/publications/know-the-unknowns/</guid>
+      <description>Abstract:  Future autonomous systems will employ complex sensing, computation, and communication components for their perception, planning, control, and coordination, and could operate in highly dynamic and uncertain environment with safety and security assurance. To realize this vision, we have to better understand and address the challenges from the &amp;ldquo;unknowns&amp;rdquo; &amp;ndash; the unexpected disturbances from component faults, environmental interference, and malicious attacks, as well as the inherent uncertainties in system inputs, model inaccuracies, and machine learning techniques (particularly those based on neural networks).</description>
+    </item>
+    
     <item>
       <title>TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning</title>
       <link>https://kwardega.com/publications/trojdrl/</link>
