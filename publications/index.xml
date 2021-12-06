@@ -6,7 +6,16 @@
     <description>Recent content in Publications on Kacper Wardega</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2020 16:45:12 -0500</lastBuildDate><atom:link href="https://kwardega.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 11:17:59 -0500</lastBuildDate><atom:link href="https://kwardega.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opportunistic Communication with Latency Guarantees for Intermittently-Powered Devices</title>
+      <link>https://kwardega.com/publications/opportunistic-communication/</link>
+      <pubDate>Tue, 16 Nov 2021 11:17:59 -0500</pubDate>
+      
+      <guid>https://kwardega.com/publications/opportunistic-communication/</guid>
+      <description>Abstract:  Energy-harvesting wireless sensor nodes have found widespread adoption due to their low cost and small form factor. However, uncertainty in the available power supply introduces significant challenges in engineering communications between intermittently-powered nodes. We propose a constraint-based model for energy harvests that together with a hardware model can be used to enable consistent, opportunistic communication with worst-case latency guarantees. We show that greedy approaches that attempt communication whenever energy is available lead to prolonged latencies in real-world environments.</description>
+    </item>
+    
     <item>
       <title>Know the Unknowns: Addressing Disturbances and Uncertainties in Autonomous Systems</title>
       <link>https://kwardega.com/publications/know-the-unknowns/</link>
