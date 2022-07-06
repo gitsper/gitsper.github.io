@@ -13,7 +13,7 @@
       <pubDate>Tue, 16 Nov 2021 11:17:59 -0500</pubDate>
       
       <guid>https://kwardega.com/publications/opportunistic-communication/</guid>
-      <description>Abstract:  Energy-harvesting wireless sensor nodes have found widespread adoption due to their low cost and small form factor. However, uncertainty in the available power supply introduces significant challenges in engineering communications between intermittently-powered nodes. We propose a constraint-based model for energy harvests that together with a hardware model can be used to enable consistent, opportunistic communication with worst-case latency guarantees. We show that greedy approaches that attempt communication whenever energy is available lead to prolonged latencies in real-world environments.</description>
+      <description>Abstract: Energy-harvesting wireless sensor nodes have found widespread adoption due to their low cost and small form factor. However, uncertainty in the available power supply introduces significant challenges in engineering communications between intermittently-powered nodes. We propose a constraint-based model for energy harvests that together with a hardware model can be used to enable consistent, opportunistic communication with worst-case latency guarantees. We show that greedy approaches that attempt communication whenever energy is available lead to prolonged latencies in real-world environments.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Fri, 27 Nov 2020 16:45:12 -0500</pubDate>
       
       <guid>https://kwardega.com/publications/know-the-unknowns/</guid>
-      <description>Abstract:  Future autonomous systems will employ complex sensing, computation, and communication components for their perception, planning, control, and coordination, and could operate in highly dynamic and uncertain environment with safety and security assurance. To realize this vision, we have to better understand and address the challenges from the &amp;ldquo;unknowns&amp;rdquo; &amp;ndash; the unexpected disturbances from component faults, environmental interference, and malicious attacks, as well as the inherent uncertainties in system inputs, model inaccuracies, and machine learning techniques (particularly those based on neural networks).</description>
+      <description>Abstract: Future autonomous systems will employ complex sensing, computation, and communication components for their perception, planning, control, and coordination, and could operate in highly dynamic and uncertain environment with safety and security assurance. To realize this vision, we have to better understand and address the challenges from the &amp;ldquo;unknowns&amp;rdquo; &amp;ndash; the unexpected disturbances from component faults, environmental interference, and malicious attacks, as well as the inherent uncertainties in system inputs, model inaccuracies, and machine learning techniques (particularly those based on neural networks).</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://kwardega.com/publications/trojdrl/</guid>
-      <description>Abstract:  We present TrojDRL, a tool for exploring and evaluating backdoor attacks on deep reinforcement learning agents. TrojDRL exploits the sequential nature of deep reinforcement learning (DRL) and considers different gradations of threat models. We show that untargeted attacks on state-of-the-art actor-critic algorithms can circumvent existing defenses built on the assumption of backdoors being targeted. We evaluated TrojDRL on a broad set of DRL benchmarks and showed that the attacks require only poisoning as little as 0.</description>
+      <description>Abstract: We present TrojDRL, a tool for exploring and evaluating backdoor attacks on deep reinforcement learning agents. TrojDRL exploits the sequential nature of deep reinforcement learning (DRL) and considers different gradations of threat models. We show that untargeted attacks on state-of-the-art actor-critic algorithms can circumvent existing defenses built on the assumption of backdoors being targeted. We evaluated TrojDRL on a broad set of DRL benchmarks and showed that the attacks require only poisoning as little as 0.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://kwardega.com/publications/netdag/</guid>
-      <description>Abstract:  Recent successes of wireless networked systems in advancing industrial automation and in spawning the Internet of Things paradigm motivate the adoption of wireless networked systems in current and future safety-critical applications. As reliability is key in safety-critical applications, in this work we present NetDAG, a scheduler design and implementation suitable for real-time applications in the wireless setting. NetDAG is built upon the Low-Power Wireless Bus, a high-performant communication abstraction for wireless networked systems, and enables system designers to directly schedule applications under specified task-level real-time constraints.</description>
+      <description>Abstract: Recent successes of wireless networked systems in advancing industrial automation and in spawning the Internet of Things paradigm motivate the adoption of wireless networked systems in current and future safety-critical applications. As reliability is key in safety-critical applications, in this work we present NetDAG, a scheduler design and implementation suitable for real-time applications in the wireless setting. NetDAG is built upon the Low-Power Wireless Bus, a high-performant communication abstraction for wireless networked systems, and enables system designers to directly schedule applications under specified task-level real-time constraints.</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://kwardega.com/publications/physical-masquerade-attacks/</guid>
-      <description>Abstract:  The advent of autonomous mobile multi-robot systems has driven innovation in both the industrial and defense sectors. The integration of such systems in safety-and security-critical applications has raised concern over their resilience to attack. In this work, we investigate the security problem of a stealthy adversary masquerading as a properly functioning agent. We show that conventional multi-agent pathfinding solutions are vulnerable to these physical masquerade attacks. Furthermore, we provide a constraint-based formulation of multi-agent pathfinding that yields multi-agent plans that are provably resilient to physical masquerade attacks.</description>
+      <description>Abstract: The advent of autonomous mobile multi-robot systems has driven innovation in both the industrial and defense sectors. The integration of such systems in safety-and security-critical applications has raised concern over their resilience to attack. In this work, we investigate the security problem of a stealthy adversary masquerading as a properly functioning agent. We show that conventional multi-agent pathfinding solutions are vulnerable to these physical masquerade attacks. Furthermore, we provide a constraint-based formulation of multi-agent pathfinding that yields multi-agent plans that are provably resilient to physical masquerade attacks.</description>
     </item>
     
     <item>
@@ -58,7 +58,7 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://kwardega.com/publications/exploring-weakly-hard/</guid>
-      <description>Abstract:  Networked systems have shown great promises in various cyber-physical applications, such as automotive and transportation systems, smart buildings and infrastructures, and robotic systems. As these systems employ advanced components and interact closely with the dynamic environment, they are often subject to significant disturbances from environment interference, security attacks, and device faults. To ensure system safety, performance and other properties, it is critical to capture these disturbances and reason about their impact at the network level.</description>
+      <description>Abstract: Networked systems have shown great promises in various cyber-physical applications, such as automotive and transportation systems, smart buildings and infrastructures, and robotic systems. As these systems employ advanced components and interact closely with the dynamic environment, they are often subject to significant disturbances from environment interference, security attacks, and device faults. To ensure system safety, performance and other properties, it is critical to capture these disturbances and reason about their impact at the network level.</description>
     </item>
     
   </channel>
