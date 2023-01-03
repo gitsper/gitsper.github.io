@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html><head>
+
+    
+    <meta charset="utf-8">
+    <title>Kacper Wardega :: PhD Candidate</title>
+    <meta name="description" content="Kacper Wardega&#39;s Website">
+    <meta name="author" content="Kacper Wardega">
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/skeleton.css"><link rel="stylesheet" href="/scss/custom.css">
+    <script defer src="/js/all.min.js"></script>
+
+    
+    
+
+</head>
+<body><div class="navbar container">
+    <nav>
+        <ul>
+            <li><h5><strong><a href="/">Kacper Wardega</a></strong></h5></li>
+            <li class="dropdown">
+                <h5><a href="#"><i class="fas fa-bars"></i></a></h5>
+                <div class="dropdown-content">
+                    <h6 class="dropdown-hide-large"><a href="/about">About</a></h6>
+                    <h6 class="dropdown-hide-large"><a href="/publications">Publications</a></h6>
+                    <h6><a href="https://sites.bu.edu/depend">Lab <i class="fas fa-external-link-alt"></i></a></h6>
+                    <h6><a href="https://www.linkedin.com/in/kacper-wardega">LinkedIn <i class="fas fa-external-link-alt"></i></a></h6>
+                </div>
+            </li>
+            <li class="navbar-hide-small"><h5><a href="/publications">Publications</a></h5></li>
+            <li class="navbar-hide-small"><h5><a href="/about">About</a></h5></li>
+        </ul>
+    </nav>
+</div>
+<div id="content">
+<div class="container">
+    <div class="row">
+        <div class="twelve columns">
+            <h1>Byzantine Resilience at Swarm Scale: A Decentralized Blocklist from Inter-robot Accusations</h1>
+            <h6>2023-01-03</h6>
+            <img class="cover u-max-full-width" src="https://kwardega.com/img/prince-patel-L-1hBbNj4Ug-unsplash.webp" loading="lazy">
+        <h2 id="abstract">Abstract:</h2>
+<blockquote>
+<p>The Weighted-Mean Subsequence Reduced (W-MSR) algorithm, the state-of-the-art
+method for Byzantine-resilient design of decentralized multi-robot systems, is
+based on discarding outliers received over Linear Consensus Protocol (LCP).
+Although W-MSR provides well-understood theoretical guarantees relating robust
+network connectivity to the convergence of the underlying consensus, the method
+comes with several limitations preventing its use at scale: (1) the number of
+Byzantine robots, F, to tolerate should be known a priori, (2) the requirement
+that each robot maintains 2F+1 neighbors is impractical for large F, (3)
+information propagation is hindered by the requirement that F+1 robots
+independently make local measurements of the consensus property in order for
+the swarm&rsquo;s decision to change, and (4) W-MSR is specific to LCP and does not
+generalize to applications not implemented over LCP. In this work, we propose a
+Decentralized Blocklist Protocol (DBP) based on inter-robot accusations.
+Accusations are made on the basis of locally-made observations of misbehavior,
+and once shared by cooperative robots across the network are used as input to a
+graph matching algorithm that computes a blocklist. DBP generalizes to
+applications not implemented via LCP, is adaptive to the number of Byzantine
+robots, and allows for fast information propagation through the multi-robot
+system while simultaneously reducing the required network connectivity relative
+to W-MSR. On LCP-type applications, DBP reduces the worst-case connectivity
+requirement of W-MSR from (2F+1)-connected to (F+1)-connected and the number of
+cooperative observers required to propagate new information from F+1 to just 1
+observer. We demonstrate empirically that our approach to Byzantine resilience
+scales to hundreds of robots on cooperative target tracking, time
+synchronization, and localization case studies.</p>
+</blockquote>
+<span class="pub-links"></span>
+
+<ul>
+<li>(links coming soon)</li>
+</ul>
+<p><em>Photo by Prince Patel on Unsplash</em></p>
+
+        </div>
+    </div>
+</div>
+
+        </div><div class="footer container">
+    <h6 class="u-pull-left"><strong><a href="/">Kacper Wardega</a></strong></h6>
+    <h6 class="u-pull-right"><i class="far fa-copyright"></i> 2022</h6>
+</div>
+</body>
+</html>

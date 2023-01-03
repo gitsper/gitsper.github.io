@@ -6,7 +6,25 @@
     <description>Recent content in Publications on Kacper Wardega</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 11:17:59 -0500</lastBuildDate><atom:link href="https://kwardega.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kwardega.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Byzantine Resilience at Swarm Scale: A Decentralized Blocklist from Inter-robot Accusations</title>
+      <link>https://kwardega.com/publications/dbp/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwardega.com/publications/dbp/</guid>
+      <description>Abstract: The Weighted-Mean Subsequence Reduced (W-MSR) algorithm, the state-of-the-art method for Byzantine-resilient design of decentralized multi-robot systems, is based on discarding outliers received over Linear Consensus Protocol (LCP). Although W-MSR provides well-understood theoretical guarantees relating robust network connectivity to the convergence of the underlying consensus, the method comes with several limitations preventing its use at scale: (1) the number of Byzantine robots, F, to tolerate should be known a priori, (2) the requirement that each robot maintains 2F+1 neighbors is impractical for large F, (3) information propagation is hindered by the requirement that F+1 robots independently make local measurements of the consensus property in order for the swarm&amp;rsquo;s decision to change, and (4) W-MSR is specific to LCP and does not generalize to applications not implemented over LCP.</description>
+    </item>
+    
+    <item>
+      <title>HoLA Robots: Mitigating Plan-Deviation Attacks in Multi-Robot Systems with Co-Observations and Horizon-Limiting Announcements</title>
+      <link>https://kwardega.com/publications/hola/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwardega.com/publications/hola/</guid>
+      <description>Abstract: Emerging multi-robot systems rely on cooperation between humans and robots, with robots following automatically generated motion plans to service application-level tasks. Given the safety requirements associated with operating in proximity to humans and expensive infrastructure, it is important to understand and mitigate the security vulnerabilities of such systems caused by compromised robots who diverge from their assigned plans. We focus on centralized systems, where a central entity (CE) is responsible for determining and transmitting the motion plans to the robots, which report their location as they move following the plan.</description>
+    </item>
+    
     <item>
       <title>Opportunistic Communication with Latency Guarantees for Intermittently-Powered Devices</title>
       <link>https://kwardega.com/publications/opportunistic-communication/</link>
