@@ -11,7 +11,8 @@
 
 .paginator {
   word-spacing: 2ex;
-  padding-top: 2rem; }
+  padding-top: 2rem;
+  text-align: center; }
 
 .footer {
   padding-top: 3rem;
